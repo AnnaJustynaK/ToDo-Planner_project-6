@@ -1,1 +1,2 @@
-# ToDo-Planner_project-6
+# How it looks
+![The way it looks](https://i.imgur.com/O7AVQKA.gif)
